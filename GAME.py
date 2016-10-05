@@ -96,3 +96,10 @@ print '\n'
 print "CONGRATULATIONS YOU HAVE WON THE GAME "
 print '\n'
 input=raw_input()
+
+'''
+1. The no. of moves in a particular direction shouldn't be told in the program.
+2. The program should exit after the game is lost
+3. "Turn right" or "turn down" should be printed once end of a particular direction is reached.
+4. Time for completing the game should be printed
+'''
